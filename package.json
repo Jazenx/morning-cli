@@ -1,6 +1,6 @@
 {
   "name": "morning-cli",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "an amazing cli",
   "main": "index.js",
   "bin": {
@@ -10,13 +10,6 @@
     "type": "git",
     "url": "git://github.com/jazenx/morning-cli.git"
   },
-  "files": [
-    "./bin",
-    "./command",
-    "./config",
-    "./src",
-    "./utils"
-  ],
   "scripts": {},
   "author": "Jason Zhour",
   "license": "ISC",
